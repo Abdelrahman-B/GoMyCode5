@@ -1,0 +1,44 @@
+[
+    {
+        "id":1,
+        "name":"Lenovo Legion 5",
+        "price": 111975,
+        "image": "Assets/Laptop1.jpg"
+    },
+
+    {
+        "id":2,
+        "name":"Dell G15",
+        "price": 69000,
+        "image": "Assets/Laptop2.jpg"
+    },
+
+    {
+        "id":3,
+        "name":"HP Victus 15",
+        "price": 121273,
+        "image": "Assets/Laptop3.jpg"
+    },
+
+    {
+        "id":4,
+        "name":"ASUS ROG Strix Scar 18",
+        "price": 140000,
+        "image": "Assets/Laptop4.jpg"
+    },
+
+    {
+        "id":5,
+        "name":"Apple 2023 MacBook Pro",
+        "price": 200000,
+        "image": "Assets/Laptop5.jpg"
+    },
+
+    {
+        "id":6,
+        "name":"Dell XPS 15",
+        "price": 125788,
+        "image": "Assets/Laptop6.jpg"
+    }
+
+]
